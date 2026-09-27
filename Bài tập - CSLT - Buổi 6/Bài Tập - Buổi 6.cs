@@ -553,7 +553,7 @@ namespace Bài_tập___CSLT___Buổi_6
 
             //BaiTap02();
 
-            BaiTap03();
+            //BaiTap03();
         }
     }
 }
